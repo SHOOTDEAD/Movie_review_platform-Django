@@ -1,8 +1,6 @@
 <h1 align="center">Movie Review Platform</h1>
 
-<p align="center">
-  <img src="your-logo.png" alt="Logo">
-</p>
+
 
 <p align="center">
   <a href="https://www.python.org/">
