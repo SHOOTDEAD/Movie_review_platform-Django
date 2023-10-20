@@ -1,10 +1,26 @@
-# Movie Review Platform
+<h1 align="center">Movie Review Platform</h1>
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4-green.svg)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Django](https://img.shields.io/badge/Django-3.x-brightgreen.svg)](https://www.djangoproject.com/)
+<p align="center">
+  <img src="your-logo.png" alt="Logo">
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-5-orange.svg" alt="HTML Version">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-4-green.svg" alt="Bootstrap Version">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-ES6-yellow.svg" alt="JavaScript Version">
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-3.x-brightgreen.svg" alt="Django Version">
+  </a>
+</p>
 
 ## Introduction
 
