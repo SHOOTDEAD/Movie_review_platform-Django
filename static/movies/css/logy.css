@@ -1,0 +1,28 @@
+.container-fluid {
+  box-shadow: 0 5px 20px 0 azure;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  width: 550px;
+  height: 250px;
+}
+.col {
+  padding-bottom: 15px;
+}
+.form-control {
+  border: 3px solid azure;
+  color: azure;
+  box-shadow: 0 4px 8px 0 azure;
+  background: none;
+}
+.form-control:focus {
+  color: azure;
+  border: 3px solid azure;
+  box-shadow: 0 4px 8px 0 azure;
+  background: none;
+}
+.form-control::placeholder {
+  color: azure;
+}

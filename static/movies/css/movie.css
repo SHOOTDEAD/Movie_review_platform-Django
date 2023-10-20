@@ -1,0 +1,89 @@
+body {
+  background: rgb(240, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(240, 255, 255, 1) 0%,
+    rgba(2, 0, 36, 1) 5%,
+    rgba(0, 0, 22, 1) 95%,
+    rgba(240, 255, 255, 1) 100%
+  );
+}
+textarea {
+  width: 380px;
+  height: 135px;
+  padding-bottom: 5px;
+}
+.card {
+  box-shadow: 0 5px 20px 0 azure;
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  width: 400px;
+  height: 600px;
+  padding: 0 0 0 0;
+
+  background-color: black;
+  box-shadow: 0 8px 16px 0 azure;
+}
+.desc {
+  position: absolute;
+  top: 75%;
+  left: 5%;
+  width: 400px;
+  color: azure;
+}
+h3,
+p {
+  color: azure;
+}
+img {
+  height: 500px;
+  width: 400px;
+}
+.reviews {
+  position: absolute;
+  top: 27%;
+  left: 42%;
+  background: none;
+  width: 600px;
+  height: 572px;
+  color: azure;
+  box-shadow: 0 8px 16px 0 azure;
+}
+.reviews-data {
+  width: 600px;
+  border: 1px solid azure;
+  background: none;
+  color: azure;
+}
+.reviews-data::placeholder {
+  color: azure;
+}
+.review-box {
+  width: 600px;
+  height: 342px;
+  border: 1px solid azure;
+  background: none;
+  color: azure;
+}
+.reviews-data {
+  scrollbar-face-color: whitesmoke;
+  scrollbar-track-color: whitesmoke;
+  scrollbar-arrow-color: whitesmoke;
+  scrollbar-highlight-color: whitesmoke;
+  scrollbar-shadow-color: whitesmoke;
+  scrollbar-3dlight-color: whitesmoke;
+  scrollbar-darkshadow-color: whitesmoke;
+}
+b {
+  color: azure;
+}
+button {
+  margin-left: 250px;
+  margin-bottom: 10px;
+  background: none;
+  border: 1px solid azure;
+  color: azure;
+}
